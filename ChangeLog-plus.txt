@@ -1,11 +1,15 @@
 {"version_code":451206,"content":"
-<li></li>
+<p></p>
 <li>شكراً لاستخدامكم واتساب الـ GB بالنكهة واللهجة التريمية بحلتة الجديدة والنهائية</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li>Abdullah Mansoor</li>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>* Abdullah Mansoor</p>
 ","url":"http://b-n-m.yoo7.com/"
 }
