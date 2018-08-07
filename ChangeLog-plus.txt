@@ -1,4 +1,4 @@
-{"version_code":451206,"content":"
+{"version_code":451205,"content":"
 <p>* محلات شاكر فون يتوفر لدينا :-</p>
 <li>صلاحية يمن موبايل</li>
 <li>تحويل فوري MTN</li>
