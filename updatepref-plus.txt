@@ -1,1 +1,1 @@
-{ ver1 : ♥ Until , ♦  ver2 : 2019 ♥ }
+{ ver1 : Until ,  ver2 : 2019 }
