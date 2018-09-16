@@ -1,18 +1,38 @@
-{"version_code":451205,"content":"
+{"version_code":451206,"content":"
+
 <p>=====================</p>
-<p>❍ 【 محرك 24 إبريل نت 】 :-</p>
-<li>رابط محرك 24 إبريل نت الاخباري  http://24april.net/ar .</li>
-<li>رابط صفحتنا على الفيس بوك  https://facebook.com/24aprilnet .</li>
-<li>رابط حسابنا في الانستقرام  https://instagram.com/24aprilnet .</li>
-<li>رابط حسابنا في تويتر  https://twitter.com/24aprilnet .</li>
-<li>رابط قناتنا في التيلجرام  https://t.me/april24net</li>
-<li>ولكي توصلكم اخبار محرك 24 إبريل نت اضيفو رقم خدمه النشر التلقائي الى قروباتكم  734724605 .</li>
+
+<p>❍ 【 شبكة_cct_الاعلامية 】 :-</p>
+
+<li>شبكة إخبارية شاملة، تسلط الضوء على اخبار حضرموت خاصة والوطن عامة .</li>
+
+<li>لمتابعة جميع أخبار الشبكه عبر المجموعات في الوتساب على الروابط التالية .</li>
+
+<li>https://chat.whatsapp.com/2W2cUi1k8ny5zY76Brp5WB .</li>
+
+<li>https://chat.whatsapp.com/8w4h8T2yo5U1ASC6y8QRdJ .</li>
+
+<li>قناة شبكة_cct_الاعلامية عبر التليجرام .</li>
+
+<li>https://t.me/CCTTNEWS .</li>
+
+<li>وللتواصل معنا عبر الرقم الخاص بنا 701230748 او اضغطوا زر تحديث فالاسفل للدردشة الخاصة .</li>
+
 <p>.</p>
+
 <strong><p>✍✉ لنشر إعلاناتكم الرجاء التواصل ع الخاص وسوف تعرض الى اكثر من 4 ألف مستخدم لتطبيق واتساب تريم .</p></strong>
+
 <p>=====================</p>
+
 <p>♥ وفي الاخير لايسعنا الا ان نشكر حسن اختياركم واستخدامكم لواتساب تريم .</p>
+
 <li><strong>Mods BY : Abdullah  Mansoor</strong></li>
+
 <li><strong>WhatsApp : 00967  711448829</strong></li>
+
 <li><strong>Welcome To WhatsApp Tarim</strong></li>
-","url":"https://chat.whatsapp.com/1tiSRXR2yOt8nF2EwCF5wQ"
+
+","url":"https://api.whatsapp.com/send?phone=967701230748"
+
 }
+
