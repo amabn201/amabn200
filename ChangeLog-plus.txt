@@ -10,7 +10,8 @@
 <p>...::: جمعـة طيبـة :::...</p> 
 <strong><p>✍✉ لنشر إعلاناتكم الرجاء التواصل ع الخاص وسوف تعرض الى اكثر من 4 ألف مستخدم لتطبيق واتساب تريم .</p></strong> <p>====================</p> 
 <p>♥ وفي الاخير لايسعنا الا ان نشكر حسن اختياركم واستخدامكم لواتساب تريم .</p> 
-<li><strong>Mods BY : Abdullah Mansoor</strong></li> <li><strong>WhatsApp : 00967 711448829</strong></li> 
+<li><strong>Mods BY : Abdullah Mansoor</strong></li> 
+<li><strong>WhatsApp : 00967 711448829</strong></li> 
 <li><strong>Welcome To WhatsApp Tarim</strong></li>
 ","url":"https://api.whatsapp.com/send?phone=967711448829"
 }
