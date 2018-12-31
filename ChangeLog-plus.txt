@@ -1,17 +1,14 @@
 {"version_code":451210,"content":"
 <strong><p> =====================</p></strong>
-<strong><p>❍【 مشـاكل وحـلول 】 :</p></strong>
-<strong><p>★ الكل يعاني هذه الايام من بطئ إرسال وعدم إستقبال الرسائل وهذه بعض الاسباب والحلول :-</p></strong>
-<strong><li>السبب الاول والرئيسي هو ضعف النت .</li></strong>
-<strong><li>يجب عدم إخفاء الظهور وصحين القراءه والاستلام .</li></strong>
-<strong><li>يجب مسح سجل الدردشات وحذفها بالكامل .</li></strong>
-<strong><li>حذف ملفي Backups وملف Databases من ملف الواتس نفسة .</li></strong>
+<strong><p>❍【 واتساب تريم 2019 】 :</p></strong>
+<strong><p>★ تتقدم أسرة ((معدلين ومطورين)) واتساب تريم لكاف المستخدمين كل التوفيق وتحقيق كل الاماني في عامعكم الجديد 2019 .</p></strong>
+<strong><p>❤::.. كل عام وانتم بخير  ..::❤</p></strong>
 <strong><p>.</p></strong>
 <strong><p>★ ✉ ستختفي هذه الرسالة غدا بأذن الله تعالى .. شكرا لكم .</p></strong>
 <strong><p> =====================</p></strong>
 <li>وفي الاخير لايسعنا الا ان نشكر حسن اختياركم واستخدامكم لواتساب تريم ❤</p>
-<li><strong> Mods BY : Abdullah  Mansoor</strong></li>
-<li><strong> WhatsApp : 00967  711448829</strong></li>
-<li><strong> Welcome To Whatsapp Tarim</strong></li>
+<li><strong>Mods BY : Abdullah  Mansoor</strong></li>
+<li><strong>WhatsApp : 00967  711448829</strong></li>
+<li><strong>Welcome To Whatsapp Tarim</strong></li>
 ","url":"https://api.whatsapp.com/send?phone=967711448829"
 }
