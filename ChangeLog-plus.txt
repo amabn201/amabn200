@@ -1,14 +1,14 @@
-{"version_code":451209,"content":"
+{"version_code":451210,"content":"
 <strong><p> =====================</p></strong>
 <strong><p>❍【 جداول ومباريات 】 :</p></strong>
 <strong><p>★ مباريات كأس حضرموت السادسة دور الـ8 .</p></strong>
-<strong><li>يوم الجمعة 11 يناير "بارادم"</li></strong>
+<strong><li>اليوم الجمعة 11 يناير "بارادم"</li></strong>
 <strong><li>شباب روكب ✘ اتحاد سيئون</li></strong>
-<strong><li>يوم الجمعة 11 يناير "جواس"</li></strong>
+<strong><li>اليوم الجمعة 11 يناير "جواس"</li></strong>
 <strong><li>شباب القطن ✘ أهلي الغيل</li></strong>
-<strong><li>يوم السبت 12 يناير "بارادم"</li></strong>
+<strong><li>غدا السبت 12 يناير "بارادم"</li></strong>
 <strong><li>التضامن ✘ وحدة تريم</li></strong>
-<strong><li>يوم السبت 12 يناير "جواس"</li></strong>
+<strong><li>غدا السبت 12 يناير "جواس"</li></strong>
 <strong><li>سيئون ✘ سمعون</li></strong>
 <strong><p>★ مرحلة الاياب بعد أسبوع في 18-19 من يناير الجاري</p></strong>
 <p>★ جدول مباريات الدور الثاني لبطولة الربيع النبوي الأولى خروج المغلوب .</p>
