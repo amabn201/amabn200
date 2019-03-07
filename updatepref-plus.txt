@@ -1,1 +1,5 @@
-{ ver1 : TRWhatsApp ,  ver2 : 2030 }
+{
+ver1 : TR1WhatsApp ,  ver2 : 2030
+ver3 : TR2WhatsApp ,  ver4 : 2030
+ver5 : TR3WhatsApp ,  ver6 : 2030 
+}
