@@ -1,1 +1,1 @@
-{ ver1 : WhatsApp , ver2 : Tarim ,  ver3 : 2030 }
+{ ver1 : WhatsApp , ver2 : Tarim2030 }
